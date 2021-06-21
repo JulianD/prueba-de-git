@@ -1,3 +1,6 @@
 # prueba-de-git
 
-Esto es una prueba de GIT
+Esto es una prueba de GIT.
+
+## Idea principal
+
